@@ -27,7 +27,7 @@
 - 💬 Ask me about Java or any tech related stuff.
 - 📫 How to reach me: [https://www.linkedin.com/in/shilpapandey08/]
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact:Never watched TV series until I was 25!
+- ⚡ Fun fact:My Intuitions and Vibes are Stronger than an Average Human Being!
 
 [![Linkedin: shilpapandey08](https://img.shields.io/badge/-shilpapandey08/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shilpapandey08/)](https://www.linkedin.com/in/shilpapandey08/)
 [![GitHub shilpakumari10](https://img.shields.io/github/followers/shilpakumari10?label=follow&style=social)](https://github.com/shilpakumari10)

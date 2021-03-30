@@ -22,8 +22,8 @@
 
 
 - 🔭 I’m currently working on [Full Stack Development]
-- 🌱 I’m currently learning more about React.js
-- 🤔 I’m looking for working in a product Based company
+- 🌱 I’m currently learning more about Node.js
+- 🤔 I’m looking for working in a product Based company.
 - 💬 Ask me about Java or any tech related stuff.
 - 📫 How to reach me: [https://www.linkedin.com/in/shilpapandey08/]
 - 😄 Pronouns: She/Her
